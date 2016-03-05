@@ -5,6 +5,10 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.4'
 #Bootstrap
 gem 'bootstrap-sass', '~> 3.3.6'
+#Devise for registration
+gem 'devise'
+#Font awesome 
+gem 'font-awesome-rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
